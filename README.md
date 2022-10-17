@@ -6,9 +6,9 @@ A low-level programming language is a programming language that provides little 
 
 ## Table of Contents
 - [About](https://github.com/Victoria-Agbenorku/alx-low_level_programming/#about)
-- [Requirements](https://github.com/Victoria-Agbenorku/alx-low_level_programming/new/master?readme=1#requirements)
-- [Projects](https://github.com/Victoria-Agbenorku/alx-low_level_programming/new/master?readme=1#projects)
-- [Credits](https://github.com/Victoria-Agbenorku/alx-low_level_programming/new/master?readme=1#credits)
+- [Requirements](https://github.com/Victoria-Agbenorku/alx-low_level_programming/#requirements)
+- [Projects](https://github.com/Victoria-Agbenorku/alx-low_level_programming/#projects)
+- [Credits](https://github.com/Victoria-Agbenorku/alx-low_level_programming/#credits)
 ## About
 At Alx School, there are several tracks to become a full stack software engineer. One of those tracks is the low level programming track which covers the following:
 
