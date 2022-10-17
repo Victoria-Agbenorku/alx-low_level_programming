@@ -5,7 +5,7 @@
 A low-level programming language is a programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map closely to processor instructions. Generally this refers to either machine code or assembly language. The word "low" refers to the small or nonexistent amount of abstraction between the language and machine language; because of this, low-level languages are sometimes described as being "close to the hardware". Programs written in low-level languages tend to be relatively non-portable
 
 ## Table of Contents
-- [About](https://github.com/Victoria-Agbenorku/alx-low_level_programming/new/master?readme=1#about)
+- [About](https://github.com/Victoria-Agbenorku/alx-low_level_programming/#about)
 - [Requirements](https://github.com/Victoria-Agbenorku/alx-low_level_programming/new/master?readme=1#requirements)
 - [Projects](https://github.com/Victoria-Agbenorku/alx-low_level_programming/new/master?readme=1#projects)
 - [Credits](https://github.com/Victoria-Agbenorku/alx-low_level_programming/new/master?readme=1#credits)
