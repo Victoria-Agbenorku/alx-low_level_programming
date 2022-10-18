@@ -1,14 +1,12 @@
 #include <stdio.h>
 
-/**
+/*
  *
- *  * main - Entry point
+ *  * Prints Programming is like building multilingual puzzle,
  *
- *   *
+ *   * followed by a new line
  *
- *    * Return: always 0
- *
- *     */
+ *    */
 
 int main(void)
 
