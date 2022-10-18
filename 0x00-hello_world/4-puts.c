@@ -1,23 +1,19 @@
-#include <unistd.h>
+#include <stdio.h>
 
 /*
  *
- *  * main - prints "and that piece of art is useful" Dora Korpar 2015-10-19",
+ *  * Prints Programming is like building multilingual puzzle,
  *
- *   * followed by a new line, to standard erro. * * 
+ *   * followed by a new line
  *
- *    * Return: Always 1
- *
- *     */
+ *    */
 
 int main(void)
 
 {
 
-		write("and that piece of art is useful\n" - Dora_Korpar, 2015-10-19\n",
+		puts("\"Programming is like building a multilingual puzzle");
 
-							59);
-
-			return (1);
+			return (0);
 
 }
