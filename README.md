@@ -24,11 +24,9 @@ At Alx School, there are several tracks to become a full stack software engineer
 - Ubuntu 14.04 LTS
 - gcc 4.8.4 (-Wall, -Werror, -Wextra, and -pedantic flags)
 ## Projects
-[0x00-hello_world](https://github.com/Victoria-Agbenorku/alx-low_level_programming/tree/master/0x00-hello_world![image](https://user-images.githubusercontent.com/113602701/196305052-c65cf0c3-4431-4368-880d-c9a0edf1a7f9.png)
-)
+[0x00-hello_world](https://github.com/Victoria-Agbenorku/alx-low_level_programming/tree/master/0x00-hello_world)
 
-[0x01-variables_if_else_while](https://github.com/Victoria-Agbenorku/alx-low_level_programming/tree/master/0x01-variables_if_else_while![image](https://user-images.githubusercontent.com/113602701/196305273-882e7027-2fe7-4cbf-bfda-f7f5bcfd5208.png)
-)
+[0x01-variables_if_else_while](https://github.com/Victoria-Agbenorku/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
 
 ## Credits
 Collaborators are acknowledged within each project
